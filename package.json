@@ -1,8 +1,8 @@
 {
-  "name": "projet-portofolio",
+  "name": "projet-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://idrisscisse.github.io/Projet-Portofolio/",
+  "homepage": "https://idrisscisse.github.io/Projet-Portfolio/",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
